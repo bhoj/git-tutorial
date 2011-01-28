@@ -5,7 +5,7 @@ class MoviePlotGenerator {
 									  'fat',
 									  'determined',
 									  'girsly',
-                                                                          'test');
+                                                                          'test for adj');
 						
 	public static $occupations = array('movie-critic',
 									   'goat wrangler',
@@ -16,7 +16,7 @@ class MoviePlotGenerator {
 									   'investment banker',
 									   'baker',
 									   'swimsuit model',
-                                                                           'test');
+                                                                           'test for occ';
 						 
 	public static $quirks = array('penchant for melodrama',
 								  'murky past',
@@ -27,7 +27,7 @@ class MoviePlotGenerator {
 								  'baby on the way',
 								  '57\' Chevy',
 								  'family back in Mexico',
-                                                                  'test');
+                                                                  'test for qui');
 					
 	/**
 	 *
